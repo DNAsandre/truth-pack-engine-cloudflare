@@ -1,0 +1,1 @@
+The patient journey is mediated through a commercial membership model managed by John-Henry. Patients likely interact with the system via an app, which may provide various touchpoints throughout the diagnostic and follow-up processes. The logistics of test fulfillment are overseen by Admin, with delivery services provided through Courier Guy.

@@ -1,0 +1,1 @@
+The clinical protocol involves the interpretation of both full and half panels for diagnostic services provided by Lancet and PathCare. It is important to note that there are distinctions between baseline ranges and optimal ranges in testing, which must be considered when evaluating patient results.

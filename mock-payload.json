@@ -1,0 +1,7 @@
+{
+  "contact_id": "simulated_client_123",
+  "phone_number": "+27821234567",
+  "message_type": "text",
+  "content": "Hi, I'm Dr Chris. The clinical protocol handles interpretation of full and half panels for Lancet and PathCare. Baseline ranges differ from optimal ranges. John-Henry manages the commercial membership model via an app, and Admin uses Courier Guy for fulfillment.",
+  "conversation_id": "ithrive-mock"
+}

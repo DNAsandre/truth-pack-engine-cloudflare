@@ -1,0 +1,1 @@
+The system requires a CRM capable of integrating with an app to manage the commercial membership model effectively. Logistics operations include the use of Courier Guy for fulfillment. The existing tech stack should accommodate integration with Lancet and PathCare systems for test processing and interpretation.
